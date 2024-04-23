@@ -1,5 +1,12 @@
 # Tauri Indexed Database Open Failed
 
+Start app:
+
+```shell
+cargo tauri dev
+```
+
+Run js in console:
 
 ```js
 let db;
